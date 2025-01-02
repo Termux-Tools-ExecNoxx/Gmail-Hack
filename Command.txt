@@ -1,0 +1,28 @@
+Gmail-Hack
+
+Easy gmail hacking in python
+
+Tool tested on:
+Termux
+Linux
+
+Installing for termux
+termux-setup-storage
+apt full-upgrade
+apt install git
+git clone https://github.com/mishakorzik/Gmail-Hack
+cd Gmail-Hack
+bash install.sh
+
+Installing for linux
+apt upgrade
+apt install git
+git clone https://github.com/mishakorzik/Gmail-Hack
+cd Gmail-Hack
+bash install.sh
+
+Start Gmail-Hack
+cd && cd Gmail-Hack && python3 Mail-Hack.py
+
+If it does not work then the command
+python3 Mail-Hack.py
